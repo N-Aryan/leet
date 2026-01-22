@@ -13,4 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/N-Aryan/leet/tree/master/0127-word-ladder) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/N-Aryan/leet/tree/master/1091-shortest-path-in-binary-matrix) |
+## Array
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/N-Aryan/leet/tree/master/1091-shortest-path-in-binary-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/N-Aryan/leet/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
