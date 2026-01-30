@@ -25,4 +25,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/N-Aryan/leet/tree/master/1091-shortest-path-in-binary-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/N-Aryan/leet/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Graph Theory
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/N-Aryan/leet/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/N-Aryan/leet/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/N-Aryan/leet/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
