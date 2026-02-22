@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/N-Aryan/leet/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/N-Aryan/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/N-Aryan/leet/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/N-Aryan/leet/tree/master/0078-subsets) |
 | [1020-number-of-enclaves](https://github.com/N-Aryan/leet/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/N-Aryan/leet/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/N-Aryan/leet/tree/master/0066-plus-one) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/N-Aryan/leet/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/N-Aryan/leet/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
