@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/N-Aryan/leet/tree/master/0078-subsets) |
 | [1020-number-of-enclaves](https://github.com/N-Aryan/leet/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/N-Aryan/leet/tree/master/1091-shortest-path-in-binary-matrix) |
+| [2895-minimum-processing-time](https://github.com/N-Aryan/leet/tree/master/2895-minimum-processing-time) |
 ## Matrix
 |  |
 | ------- |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/N-Aryan/leet/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [2895-minimum-processing-time](https://github.com/N-Aryan/leet/tree/master/2895-minimum-processing-time) |
+## Sorting
+|  |
+| ------- |
+| [2895-minimum-processing-time](https://github.com/N-Aryan/leet/tree/master/2895-minimum-processing-time) |
 <!---LeetCode Topics End-->
