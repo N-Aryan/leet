@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/N-Aryan/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/N-Aryan/leet/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/N-Aryan/leet/tree/master/0078-subsets) |
+| [0120-triangle](https://github.com/N-Aryan/leet/tree/master/0120-triangle) |
 | [1020-number-of-enclaves](https://github.com/N-Aryan/leet/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/N-Aryan/leet/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2895-minimum-processing-time](https://github.com/N-Aryan/leet/tree/master/2895-minimum-processing-time) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/N-Aryan/leet/tree/master/0120-triangle) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/N-Aryan/leet/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Theory
 |  |
