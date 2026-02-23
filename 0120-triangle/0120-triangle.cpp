@@ -1,31 +1,32 @@
+
 class Solution {
 public:
-    int f(int i, int j, vector<vector<int>>& triangle, vector<vector<int>> &dp){
-
-        if(i==0 && j==0) return triangle[0][0];
-        if(i<0||j<0) return 1e9;
-        if(j > i) return 1e9;
-
-        if(dp[i][j]!=-1) return dp[i][j];
-
-        int same_idx= triangle[i][j] + f(i-1,j,triangle, dp);
-        int one_before= triangle[i][j] + f(i-1,j-1,triangle, dp);
-
-        return dp[i][j]=min(same_idx, one_before);
-
-    }
     int minimumTotal(vector<vector<int>>& triangle) {
 
-        int n=triangle.size();
-        int m=triangle[n-1].size();
-        vector<vector<int>> dp(n, vector<int> (m,-1));
+        int n = triangle.size();
+        vector<vector<int>> dp(n, vector<int>(n, 1e9));
 
-        int ans=1e9;
-        for(int m=0; m<triangle[n-1].size(); m++){
-            ans = min(ans ,f(n-1,m,triangle, dp));
+        dp[0][0] = triangle[0][0];
+
+        for(int i = 1; i < n; i++){
+            for(int j = 0; j <= i; j++){
+
+                int same_idx = 1e9;
+                int one_before = 1e9;
+
+                if(j <= i-1) same_idx = dp[i-1][j];
+
+
+                if(j-1 >= 0) one_before = dp[i-1][j-1];
+
+                dp[i][j] = triangle[i][j] + min(same_idx, one_before);
+            }
         }
-
+        
+        int ans = 1e9;
+        for(int j = 0; j < n; j++){
+            ans = min(ans, dp[n-1][j]);
+        }
         return ans;
-
     }
 };
