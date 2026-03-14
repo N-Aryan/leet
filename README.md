@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/N-Aryan/leet/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/N-Aryan/leet/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/N-Aryan/leet/tree/master/0120-triangle) |
+| [1004-max-consecutive-ones-iii](https://github.com/N-Aryan/leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/N-Aryan/leet/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/N-Aryan/leet/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2895-minimum-processing-time](https://github.com/N-Aryan/leet/tree/master/2895-minimum-processing-time) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/N-Aryan/leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/N-Aryan/leet/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2895-minimum-processing-time](https://github.com/N-Aryan/leet/tree/master/2895-minimum-processing-time) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/N-Aryan/leet/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/N-Aryan/leet/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
