@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/N-Aryan/leet/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/N-Aryan/leet/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/N-Aryan/leet/tree/master/0127-word-ladder) |
 ## String
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/N-Aryan/leet/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/N-Aryan/leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/N-Aryan/leet/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/N-Aryan/leet/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/N-Aryan/leet/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/N-Aryan/leet/tree/master/0120-triangle) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/N-Aryan/leet/tree/master/0037-sudoku-solver) |
 | [1020-number-of-enclaves](https://github.com/N-Aryan/leet/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/N-Aryan/leet/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Dynamic Programming
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/N-Aryan/leet/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/N-Aryan/leet/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
