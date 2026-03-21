@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/N-Aryan/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/N-Aryan/leet/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/N-Aryan/leet/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/N-Aryan/leet/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/N-Aryan/leet/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/N-Aryan/leet/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/N-Aryan/leet/tree/master/0078-subsets) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/N-Aryan/leet/tree/master/0042-trapping-rain-water) |
 | [0120-triangle](https://github.com/N-Aryan/leet/tree/master/0120-triangle) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/N-Aryan/leet/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Theory
@@ -108,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/N-Aryan/leet/tree/master/1004-max-consecutive-ones-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/N-Aryan/leet/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/N-Aryan/leet/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/N-Aryan/leet/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
